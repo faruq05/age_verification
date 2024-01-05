@@ -1,0 +1,34 @@
+@media(max-width:767px){
+    h1{
+        font-size: 30px;
+    }
+
+    h2{
+        font-size: 25px;
+    }
+    
+    .cp60{
+        padding: 30px 15px;
+    }
+
+    .header .container{
+        justify-content: end;
+    }
+
+    .hero .row{
+        min-height: 60vh;
+    }
+
+    .card-body{
+        padding: 20px;
+    }
+
+    .fixed-sidebar{
+        margin-top: 20px;
+    }
+
+    .btn_custom{
+        width: 100%;
+    }
+    
+}
